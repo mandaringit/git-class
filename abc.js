@@ -8,4 +8,4 @@ const realWorld = "여긴 실제상황";
 const playground = "놀이터";
 const sand = "놀이터 모래";
 
-const newItem = "놀이터에 입고된 새로운 아이템?";
+const newItem = "놀이터에 입고된 새로운 아이템!";
