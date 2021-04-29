@@ -1,2 +1,2 @@
 const a = 1;
-const b = 5;
+const b = 7;
