@@ -5,3 +5,4 @@ const d = 100;
 const e = 1000;
 
 const playground = "놀이터";
+const sand = "놀이터 모래";
