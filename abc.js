@@ -3,5 +3,14 @@ const b = 7;
 const c = 9;
 const d = 100;
 const e = 10000;
-const d = 3333;
-const f = 3333311;
+
+const realWorld = "여긴 실제상황";
+const playground = "놀이터";
+const sand = "놀이터 모래";
+
+const newItem = "놀이터에 입고된 새로운 아이템!";
+
+const rebase = true;
+const branch = 1;
+
+const bracnh2 = 3;
