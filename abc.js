@@ -14,3 +14,5 @@ const rebase = true;
 const branch = 1;
 
 const bracnh2 = 3;
+
+const newFeature = "new!";
