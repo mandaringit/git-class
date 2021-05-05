@@ -19,3 +19,5 @@ const newFeature = "new!";
 const change1 = "!";
 const change2 = "@";
 const change3 = "%";
+
+const change4 = "asd";
