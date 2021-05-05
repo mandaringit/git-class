@@ -16,5 +16,3 @@ const branch = 1;
 const bracnh2 = 3;
 
 const newFeature = "new!";
-
-const test = 1;
