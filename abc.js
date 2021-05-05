@@ -17,3 +17,5 @@ const bracnh2 = 3;
 
 const newFeature = "new!";
 const change1 = "!";
+const change2 = "--";
+const change3 = "%";
