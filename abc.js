@@ -29,3 +29,4 @@ const change7 = "daasdasd";
 const master = 1;
 const master2 = 2;
 const feature1 = 1;
+const feature2 = 2;
