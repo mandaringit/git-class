@@ -27,3 +27,4 @@ const change6 = "dasfas";
 const change7 = "daasdasd";
 
 const master = 1;
+const master2 = 2;
