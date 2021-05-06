@@ -25,3 +25,5 @@ const change4 = "asd";
 const change5 = "dasfas";
 const change6 = "dasfas";
 const change7 = "daasdasd";
+
+const master = 1;
