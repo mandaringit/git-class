@@ -34,6 +34,3 @@
 
 쓰잘데기없는 부분
 zzzzzz
-
-
-adsfsdafsdafsda
